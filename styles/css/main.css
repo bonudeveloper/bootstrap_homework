@@ -1,0 +1,122 @@
+.intro-title {
+  padding-inline: 10px;
+  border-radius: 5px;
+  background-image: linear-gradient(to left, #d51f88, #454ff6);
+}
+
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#4f2bd6, #7d27bb, #d42089);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.btn-resume {
+  padding: 20px 50px;
+  background-color: #454ff6;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.project {
+  border: 1px solid gray;
+}
+
+.profile {
+  background-image: linear-gradient(to left, #d51f88, #454ff6);
+  height: 350px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.titles {
+  margin-top: 10%;
+}
+
+.about {
+  font-size: 62px;
+  background: -webkit-linear-gradient(#4f2bd6, #7d27bb, #d42089);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient {
+  background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.icon {
+  padding-bottom: 7%;
+}
+
+.foot1 {
+  background-color: #f8f9fa;
+}
+
+#resume {
+  background-color: #f8f9fa;
+}
+
+.present {
+  background-color: #f8f9fa;
+  padding-top: 15px;
+  border-radius: 10px;
+  padding-inline: 10px;
+  padding-right: auto;
+}
+
+.res {
+  font-size: 62px;
+  background: -webkit-linear-gradient(#4f2bd6, #7d27bb, #d42089);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.edu, .p-c {
+  color: #d42089;
+}
+
+.skill {
+  background-image: linear-gradient(to left, #d51f88, #454ff6);
+  color: white;
+  padding: 15px 20px;
+  border-radius: 10px;
+}
+
+.skill-text {
+  background: -webkit-linear-gradient(#4f2bd6, #7d27bb, #d42089);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.img {
+  background-color: #343a40;
+}
+
+#project {
+  background-color: #f8f9fa;
+}
+
+.img2 {
+  background-color: #343a40;
+}
+
+article {
+  background-image: linear-gradient(to left, #d51f88, #454ff6);
+}
+
+.contact {
+  background-color: #f8f9fa;
+}
+
+form {
+  width: 500px;
+  margin: 0 auto;
+  padding-bottom: 4%;
+}
+
+.bts {
+  width: 500px;
+}/*# sourceMappingURL=main.css.map */

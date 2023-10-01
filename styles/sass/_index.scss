@@ -1,0 +1,50 @@
+.intro-title {
+    padding-inline: 10px;
+    // padding-block: auto;
+    border-radius: 5px;
+    // border: 1px solid black;
+    background-image: linear-gradient(to left, #d51f88 , #454ff6);
+}
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#4f2bd6,#7d27bb, #d42089);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.btn-resume {
+    padding: 20px 50px;
+    background-color: #454ff6;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.project {
+    border: 1px solid gray;
+}
+.profile {
+    background-image: linear-gradient(to left , #d51f88 , #454ff6);
+    height: 350px;
+    width: 300px;
+    border-radius: 10px;
+}
+.titles {
+    margin-top: 10%;
+}
+.about {
+    font-size: 62px;
+    background: -webkit-linear-gradient(#4f2bd6,#7d27bb, #d42089);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.text-gradient {
+   background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+.icon {
+    padding-bottom: 7%;
+}
+.foot1 {
+    background-color: #f8f9fa;
+}
